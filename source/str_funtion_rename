@@ -1,0 +1,29 @@
+memchr
+memcmp
+memcpy
+memmove
+memset
+
+
+strcat			To  concatenate
+strchr			To	search
+strcmp			To  compare 
+strcoll			To  cmpByChar 
+strcpy			To  copy
+strcspn
+strerror
+strlen			To  length
+strncat
+strncmp
+strncpy
+strpbrk
+strrchr
+strspn
+strstr
+strtok
+strxfrm
+
+
+strcat	To  concatenate
+strchr	To	strsearch
+strcmp
